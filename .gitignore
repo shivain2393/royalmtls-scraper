@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Coverage reports
+*.cover
+*.coverage
+.coverage.*
+*.py,cover
+
+# Distribution files
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
