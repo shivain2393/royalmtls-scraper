@@ -24,7 +24,7 @@ You can install them using the following command:
 pip install -r requirements.txt
 ```
 
-##Installation
+## Installation
 
 1. Clone the repository
 
@@ -39,7 +39,7 @@ cd royalmtls-scraper
 pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 
 1. Run the scraper by executing the following command.
 
@@ -55,14 +55,14 @@ python scraper.py
 - Convert the text file into a PDF with properly formatted titles and body text.
 - Delete the text file after creating the PDF.
 
-##Example
+##  Example
 
 After running the script and providing the starting URL of a light novel (preferably the prologue or the first chapter), the program will create a PDF named after the volume (e.g., Volume-1.pdf) containing all the scraped chapters.
 
-##Contributing
+## Contributing
 
 Feel free to fork the repository and submit pull requests to contribute to the project. Any suggestions or bug reports are welcome!
 
-##License
+## License
 
 This project is open-source and available under the MIT License.
