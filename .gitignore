@@ -29,3 +29,7 @@ build/
 *.bak
 *.tmp
 *.swp
+
+
+*.txt
+*.pdf
